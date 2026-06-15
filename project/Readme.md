@@ -54,7 +54,7 @@ Using Python and real-world job posting data, I analyzed:
 <br>
 
 <p align="center">
-  <img src="project/images/optimal_skills.png" width="95%">
+  ![alt text](optimal_skills.png)
 </p>
 
 <p align="center">
